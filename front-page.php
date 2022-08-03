@@ -8,8 +8,8 @@
     <script src="https://kit.fontawesome.com/435f5df33b.js" crossorigin="anonymous"></script>
   </head>
   <body>
-    <h1>Hello, world!<i>atom-simple</i></h1>
-    <i>atom-simple</i>
+    <h1>Hello, world!<i class="fa-regular fa-atom-simple"></h1>
+    <i class="fa-regular fa-atom-simple">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
   </body>
 </html>
