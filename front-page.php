@@ -8,6 +8,8 @@
 
     <?php
     wp_head();
+    wp_enqueue_scripts();
+    wp_enqueue_styles();
     ?>
 
   </head>
