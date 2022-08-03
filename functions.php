@@ -11,6 +11,6 @@ function jlg_enqueue_scripts() {
 
 
 add_action('wp_enqueue_styles', 'jlg_enqueue_styles');
-add_action('wp_enqueue_scripts', 'jlg_enqueue_scripts')
+add_action('wp_enqueue_scripts', 'jlg_enqueue_scripts');
 
 ?>
